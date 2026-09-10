@@ -1,0 +1,113 @@
+MIGUEL VARONA GALLEGO
+FULL-STACK PRODUCT ENGINEER
+WEB & MOBILE APPS | NEXT.JS · TYPESCRIPT · REACT NATIVE · SUPABASE | SAAS B2B
+
+Madrid, España · +34 652 592 293 · migvaronag@gmail.com
+wearecapa.es · linkedin.com/in/miguelvaronagallego · github.com/MigVarona
+
+PERFIL                Diseño, desarrollo y despliego productos SaaS B2B de principio a fin —web, mobile y backend—,
+                      desde la definición del alcance hasta el mantenimiento en producción. Trabajo con Next.js, React,
+                      TypeScript, Supabase/PostgreSQL, Stripe y React Native, en arquitecturas multi-tenant con seguridad
+                      mediante Row Level Security (RLS). Integro LLMs en producto —extracción y estructuración de datos,
+                      asistentes y automatización de flujos— con OpenAI, Anthropic y Groq, y trabajo a diario con desarrollo
+                      asistido (Claude Code, Cursor y Copilot).
+
+                      Más de 8 productos web y móviles entregados y hoy en producción, entre producto propio y proyectos
+                      de cliente. Antes fundé y dirigí durante nueve años Carmencita Film Lab, con clientes en toda Europa y
+                      un equipo de hasta 30 personas: aporto criterio de negocio y responsabilidad sobre la entrega, no solo
+                      ejecución técnica.
+
+EXPERIENCIA           Full-Stack Product Engineer
+                      WEARECAPA · wearecapa.es · mar. 2026 – Actualidad · Jornada completa · Madrid
+                      Estudio de producto digital especializado en aplicaciones web y mobile, plataformas SaaS e
+                      integraciones de IA, para clientes y proyectos propios.
+                       · Lidero el ciclo completo de cada producto —definición funcional, diseño UI, desarrollo frontend y
+                         backend, despliegue y evolución en producción— e integro APIs, automatizaciones y servicios de
+                         terceros.
+
+                         Productos destacados
+
+                         · Bookarta — SaaS B2B para restauración (menús QR, reservas y panel de gestión), con clientes
+                           activos en España y Europa e ingresos recurrentes desde el primer mes. bookarta.es
+                            – Multi-tenant con aislamiento por organización vía RLS, suscripciones con Stripe de extremo a
+                              extremo y extracción de cartas con OpenAI.
+                         · Flare — web y app móvil sincronizadas en tiempo real para espacios compartidos. holaflare.xyz
+                         · RENEW — plataforma editorial de salud, web y app móvil, orientada a conversión y SEO.
+                           renew-habits.com
+
+                      Auditor de seguridad y desarrollador backend · Freelance
+                      Cliente SaaS B2B multi-tenant · vía Malt · ene. 2026 – Actualidad · Remoto
+
+                       · Analicé y corregí dos vulnerabilidades no identificadas previamente, incluida una de gravedad alta,
+                         en un backend sobre Supabase y PostgreSQL.
+                       · Preparé el parche SQL —mínimo y reversible, con plan de rollback— y reforcé las políticas Row Level
+                         Security que aíslan los datos entre organizaciones.
+                       · Revisé el repositorio en busca de credenciales privadas expuestas.
+                       · Validé las medidas con pruebas directas sobre la API y recogí resultados y evidencias en una versión
+                         actualizada del informe de auditoría.
+                        «Detectó dos vulnerabilidades reales que habían pasado desapercibidas y preparó un parche mínimo
+                        y seguro con su propio plan de reversión. Totalmente recomendable.» — Valoración del cliente
+
+
+
+
+Miguel Varona Gallego · Full-Stack Product Engineer                                                migvaronag@gmail.com · github.com/MigVarona
+                      Full-Stack Developer y Responsable Digital
+                      AMAE — Asociación de Montadores Audiovisuales de España · premiosamae.com · may. 2025 – Actualidad · Remoto
+
+                       · Desarrollo full stack del ecosistema digital de la asociación: web institucional, herramientas internas
+                         y la plataforma de gestión de los Premios AMAE.
+                       · Implementé los procesos de inscripción, documentación y votación online, que gestionaron más de
+                         200 inscripciones en 10 categorías.
+                       · Modelé los permisos por tipo de usuario con RLS y middleware sobre Next.js, TypeScript y Supabase,
+                         manteniendo aislados los flujos de candidato, jurado y administración.
+
+                      Full-Stack Developer
+                      Agencia para el Empleo de Madrid · feb. – dic. 2024 · Jornada completa · Madrid
+
+                       · Desarrollé una plataforma web con funcionalidades de inteligencia artificial para apoyar y
+                         automatizar procesos de orientación laboral, incluyendo una experiencia web inmersiva y un
+                         asistente virtual.
+                       · Integré flujos de IA generativa con OpenAI para generar, organizar y gestionar contenidos de
+                         orientación, sobre React, Node.js, Express y Docker.
+                       · Definí y validé requisitos con usuarios y stakeholders, trabajando en equipo con metodología ágil,
+                         control de versiones y despliegue continuo.
+
+                      Fundador y CEO
+                      Carmencita Film Lab · carmencitafilmlab.com · jul. 2013 – jul. 2022 · Valencia
+
+                       · Fundé y dirigí durante nueve años un laboratorio fotográfico de referencia, con clientes en toda
+                         Europa y un equipo de hasta 30 personas.
+                       · Dirigí producto, operaciones y estrategia comercial internacional, y coordiné la tecnología, los
+                         sistemas internos y la presencia digital.
+
+                      Docente — Fotografía Fine Art
+                      EFTI — Escuela de Fotografía y Centro de Imagen · 2015 – 2017 · Madrid
+
+                       · Clases teórico-prácticas de composición avanzada, iluminación y postproducción, y tutorización de
+                         proyectos personales.
+
+COMPETENCIAS
+                        · Frontend y mobile — TypeScript, JavaScript, React, Next.js, Tailwind CSS, Three.js, React Native,
+                          Expo y EAS Build.
+                        · Backend y datos — Node.js, Express, APIs REST, PostgreSQL, Supabase, MySQL y MongoDB.
+                        · SaaS y seguridad — arquitecturas multi-tenant, autenticación, Supabase RLS, seguridad de bases de
+                          datos, Stripe y Resend.
+                        · IA — OpenAI, Anthropic y Groq; integración de LLM en producto y desarrollo asistido con Claude
+                          Code, Cursor y Copilot.
+                        · Cloud, CI/CD y producto — Vercel, AWS, Railway, Docker, GitHub Actions; definición funcional,
+                          arquitectura, modelado de datos, UX/UI y Figma.
+
+FORMACIÓN             Bootcamp Full Stack Developer — 1.000 horas
+                      Factoría F5 · Madrid · 2022 – 2023
+
+                       · Frontend y backend con JavaScript, React, Next.js, Node.js, Express, MongoDB, Git y Docker.
+                         Tecnologías inmersivas con Three.js y A-Frame (WebXR y 3D en navegador).
+
+                      Técnico Superior en Imagen
+                      IES Príncipe Felipe · Madrid · 2010 – 2012
+
+IDIOMAS               Español — nativo · Inglés — B2
+
+Miguel Varona Gallego · Full-Stack Product Engineer                                                    migvaronag@gmail.com · github.com/MigVarona
+
